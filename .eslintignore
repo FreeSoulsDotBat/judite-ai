@@ -1,0 +1,11 @@
+# folders
+node_modules
+assets
+.vscode
+.expo
+components/__tests__/*
+config
+
+
+# files
+expo-env.d.ts
